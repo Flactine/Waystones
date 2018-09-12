@@ -28,7 +28,7 @@ gui.waystones:editWaystone.isGlobal=是世界性的
 
 tooltip.waystones:cooldownLeft=冷却：%d秒
 tooltip.waystones:boundTo=绑定至：%s
-tooltip.waystones:none=没有
+tooltip.waystones:none=无
 tooltip.waystones:returnToWaystone=返回到座标石碑
 tooltip.waystones:openWaystoneMenu=打开座标石碑菜单
 tooltip.waystones:levelRequirement=需要经验等级：%d
